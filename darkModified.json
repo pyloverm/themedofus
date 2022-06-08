@@ -1,12 +1,12 @@
 [{
-"author" : "Victor",
-"name" : "darkModified",
-"keyWords" : ["dark","modif"],
-"version" : "1.0.2",
-"dofusVersion" : "2.63",
-"description" : "c'est dark de ouf",
-"url" : "https://github.com/pyloverm/themedofus/raw/main/darkModified.rar",
-"previewUrl" : "https://github.com/pyloverm/themedofus/raw/main/dark.jpg",
-"creationDate" : "06/06/2022",
-"modificationDate" : "06/06/2022"
-}]
+    "author": "Victor",
+    "name": "darkModified",
+    "keyWords": "darkOpacity, Thèmes",
+    "version": "5.16.0",
+    "dofusVersion": "2.63",
+    "description": "oufissime",
+    "url": "https://github.com/pyloverm/themedofus/raw/main/darkModified.zip",
+    "previewUrl": "https://github.com/pyloverm/themedofus/raw/main/dark.jpg",
+    "creationDate": "01/08/2017",
+    "modificationDate": "14/03/2022"
+ }]
