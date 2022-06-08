@@ -1,7 +1,7 @@
 [{
 "author" : "Victor",
 "name" : "darkModified",
-"keyWords" : "dark,modif",
+"keyWords" : ["dark","modif"],
 "version" : "1.0.2",
 "dofusVersion" : "2.63",
 "description" : "c'est dark de ouf",
